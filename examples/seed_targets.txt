@@ -1,0 +1,8 @@
+# One per line: product name, domain, or developer org
+mozilla firefox
+zoom
+adobe
+discord
+spotify
+openai.com
+youtube.com
