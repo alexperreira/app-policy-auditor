@@ -1,0 +1,11 @@
+beautifulsoup4
+readability-lxml
+lxml
+trafilatura
+requests
+pdfminer.six
+PyYAML
+tqdm
+python-dateutil
+pandas
+openai
